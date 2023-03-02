@@ -1,7 +1,7 @@
 # MOREA CONFIGURATION FILE
 # See https://morea-framework.github.io/docs/instructors/config-yml
 
-# SITE SPECIFIC: The following fields are typically changed for each site
+# SITE SPECIFIC: The following fields are typically changed for each site.
 name: EE 445
 baseurl: /ee445
 morea_theme: spacelab
