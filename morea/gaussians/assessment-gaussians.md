@@ -1,7 +1,7 @@
 ---
 title: "A01: Assessment of simple Javascript skills"
 published: true
-morea_id: assessment-javascript-1
+morea_id: assessment-gaussians
 morea_summary: Loops? Conditionals? JSFiddle?
 morea_outcomes_assessed:
  - outcome-javascript-1

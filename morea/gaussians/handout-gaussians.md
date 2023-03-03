@@ -1,5 +1,5 @@
 ---
-title: "ES6: for-of, for-in"
+title: "Handout: Univariate and Multivariate Gaussians"
 published: true
 morea_id: handout-gaussians
 morea_summary: "Univariate and Multivariate Gaussians, conditional expectation"

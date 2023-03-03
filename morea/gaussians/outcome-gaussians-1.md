@@ -1,11 +1,11 @@
 ---
-title: "Competent with elementary Javascript"
+title: "Competent with basics of univariate and multivariate Gaussians"
 published: true
-morea_id: outcome-javascript-1
+morea_id: outcome-gaussians-1
 morea_type: outcome
 morea_sort_order: 7
 ---
 
-  * You can use basic Javascript constructs: variables, functions, conditionals, loops, arrays, objects.
-  * You can implement object orientation using the ES6 class construct. 
-  * You can use the Underscore library to program in a functional manner.
+  * You understand how to use and operate univariate Gaussians, including certain definite integrals involved in moment calculations
+  * You understand what jointly Gaussian random variables are, and can give an example of two Gaussians that are \emph{not} multivariate Gaussian
+  * You understand how to find the conditional expectations with multivariate Gaussian random variables
