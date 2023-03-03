@@ -24,4 +24,4 @@ morea_labels:
 morea_sort_order: 10
 ---
 
-Overview of EE 445, and useful information for the course
+Overview of EE 445, and useful information for the course.
