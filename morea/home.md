@@ -17,15 +17,27 @@ published: true
   See the <a href="https://morea-framework.github.io">Morea Framework Project Site</a> for details.
 </div>
 
-EE 445 is an undergraduate level introduction to Machine Learning for Electrical and Computer Engineering students. It uses your strengths in probability, linear algebra, and related engineering concepts in linear methods, signal processing, signals and systems to provide a comprehensive introduction to machine learning fundamentals.
+EE 445 is an undergraduate level introduction to Machine Learning for
+Electrical and Computer Engineering students. It augments your base in
+probability and linear algebra (and to some extent related engineering
+concepts), and leverages this foundation to provide a comprehensive
+introduction to machine learning fundamentals.
 
 ## Who should take this course
 
-This course is intended for undergraduates in computer science or computer engineering who have a working knowledge of at least one programming language and who want to get a taste of important topics in the field.
+This course is intended for undergraduates in ECE/Math, or graduate
+students in ICS, Economics, Math, and Business with a basic working
+knowledge of python, probability and linear algebra.
 
 ## Pedagogy
 
-ICS 199 is structured as a sequential series of [modules](/modules), each taking approximately a week to complete. Each module has the following structure:
+EE 445 is structured as a series of [modules](/modules), each taking
+approximately 1-2 weeks to complete. Each module has material we will
+cover in class (usually the harder or the more important parts), and
+will often have supplementary material that you are encouraged to
+do. By design the course is open ended, where you have the option of
+going "ahead of lectures", so to speak, and I am always available to help
+you when you do so. Each module typically has:
 
   * [Prerequisites](/prerequisites), describing skills you should have prior to starting the module.
   * [Learning outcomes](/outcomes), describing the major goals for the module.
