@@ -1,5 +1,5 @@
 ---
-title: "Introduction to ICS 199"
+title: "Introduction to Machine Learning"
 published: true
 morea_coming_soon: false
 morea_id: example-introduction
@@ -18,10 +18,10 @@ morea_experiences:
 morea_assessments:
 morea_type: module
 morea_icon_url: /morea/example-introduction/introduction.jpg
-morea_start_date: "2021-07-06"
-morea_end_date: "2021-07-09T23:00"
+morea_start_date: "2023-01-26"
+morea_end_date: "2023-07-01T23:00"
 morea_labels:
 morea_sort_order: 10
 ---
 
-Overview of ICS 199, and some simple initial tasks to get oriented and ready for the course.
+Overview of EE 445, and useful information for the course
