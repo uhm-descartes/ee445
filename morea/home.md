@@ -5,19 +5,19 @@ morea_type: home
 published: true
 ---
 
-## Welcome to ICS 199, Fall 2021
+## Welcome to EE 445, Spring 2023
 
 <div class="alert alert-danger" role="alert" markdown="1">
 
-  <i class="fa-solid fa-circle-exclamation fa-xl"></i> **Warning: this is not a website for a real course.**
+  <i class="fa-solid fa-circle-exclamation fa-xl"></i> **Warning: material has not been migrated, you may find demo fillers instead of EE 445 material.**
   <hr/>
   
-  It is actually the "demo" site for the Morea Framework. 
+  The course material is transitioning into the Morea Framework. 
 
   See the <a href="https://morea-framework.github.io">Morea Framework Project Site</a> for details.
 </div>
 
-ICS 199 is a four week overview of selected topics in computer science, including Javascript, Open Source Software, and Ethics.
+EE 445 is an undergraduate level introduction to Machine Learning for Electrical and Computer Engineering students. It uses your strengths in probability, linear algebra, and related engineering concepts in linear methods, signal processing, signals and systems to provide a comprehensive introduction to machine learning fundamentals.
 
 ## Who should take this course
 
@@ -35,4 +35,4 @@ ICS 199 is structured as a sequential series of [modules](/modules), each taking
 
 ## About the instructor
 
-[Philip Johnson](https://philipmjohnson.org) is a Professor of Information and Computer Sciences at the University of Hawaii. His research interests include climate change, educational technology, software engineering, and serious games. He is currently an active developer of [RadGrad](https://radgrad.org), an open source software system based on Javascript, Typescript, React, and Meteor.
+[Narayana Prasad Santhanam](https://ee.hawaii.edu/faculty/profile?usr=63) is a Professor of Electrical and Computer Engineering at the University of Hawaii. My research interests are at the intersection of machine learning, information theory and statistics. A particular focus is on high dimensional and complex problems, that are not amenable to traditional statistical methods and guarantees.
