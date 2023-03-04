@@ -8,12 +8,13 @@ morea_outcomes:
 morea_readings:
   - handout-gaussians
 morea_experiences:
-  - experience-clt
-  - experience-tour
+  - experience-interactive-javascript-1
+  - experience-javascript-1-technical-essay
+  - experience-ctci
 morea_assessments:
   - assessment-gaussians
 morea_type: module
-morea_icon_url: /morea/gaussians/gaussians.png
+morea_icon_url: /morea/example-javascript/javascript.png
 morea_start_date: "2023-03-02"
 morea_end_date: "2023-07-16T23:00"
 morea_labels:
