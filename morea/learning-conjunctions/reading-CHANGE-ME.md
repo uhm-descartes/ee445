@@ -1,13 +1,13 @@
 ---
-title: "Probably Approximately Correct"
+title: "Learning conjunctions"
 published: true
-morea_id: reading-pac
-morea_summary: "More on the PAC framework"
+morea_id: reading-conjunctions
+morea_summary: "Notes from class"
 morea_type: reading
+morea_url: morea/learning-conjunctions/conjunctions.pdf
 morea_labels:
 ---
 
-Here is some additional content to go over.
 
 
 

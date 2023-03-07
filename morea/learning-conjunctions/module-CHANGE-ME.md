@@ -7,9 +7,10 @@ morea_prerequisites:
 morea_outcomes:
    - outcome-conjunctions
 morea_readings:
-  # - reading-conjunctions
+   - reading-conjunctions
+   - reading-paclearning
 morea_experiences:
-  # - experience-conjunctions
+   - experience-conjunctions
 morea_assessments:
    - assessment-conjunctions
 morea_type: module
@@ -20,4 +21,4 @@ morea_labels:
 morea_sort_order: 21
 ---
 
-Probabilistic setup for learning with an example
+Probabilistic setup for learning using an example
