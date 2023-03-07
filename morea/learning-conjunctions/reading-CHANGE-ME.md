@@ -1,11 +1,13 @@
 ---
-title: "CHANGE ME"
-published: false
-morea_id: reading-CHANGE-ME
-morea_summary: "CHANGE ME"
-morea_url: https://github.com/airbnb/javascript
+title: "Probably Approximately Correct"
+published: true
+morea_id: reading-pac
+morea_summary: "More on the PAC framework"
 morea_type: reading
 morea_labels:
 ---
 
-(CHANGE ME if no morea_url)
+Here is some additional content to go over.
+
+
+

@@ -9,6 +9,7 @@ morea_type: assessment
 morea_start_date: "2021-07-16T09:00"
 morea_labels:
 ---
+
 ## Warmup
 
 Suppose $X$ is a random variable concentrated around 3, and
