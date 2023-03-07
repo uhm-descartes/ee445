@@ -1,5 +1,5 @@
 ---
-title: The Central Limit Theorem
+title: Tour of applications
 published: true
 morea_id: experience-tour
 morea_type: experience
@@ -9,6 +9,8 @@ morea_start_date: "2023-01-14T23:00"
 morea_labels:
   - Common Applications for Gaussians
 ---
+
+## Tour of applications
 
 Here is a nice
 [tour](https://python.quantecon.org/multivariate_normal.html) of some

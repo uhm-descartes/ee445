@@ -9,8 +9,6 @@ morea_start_date: "2023-01-14T23:00"
 morea_labels:
   - The Central Limit Theorem
 ---
-## The Central Limit Theorem
-
 
 The Central Limit Theorem (Berry-Essen bounds) posits that the sum of
 independent, identically distributed random variables \\(X_1,\ldots,
