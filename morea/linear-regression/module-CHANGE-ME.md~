@@ -1,0 +1,24 @@
+---
+title: "CHANGE ME"
+published: true
+morea_coming_soon: false
+morea_id: module-lr
+morea_prerequisites:
+morea_outcomes:
+   - outcome-lr
+morea_readings:
+   - reading-lr-notes
+   - reading-lr
+morea_experiences:
+   - experience-lr
+morea_assessments:
+   - assessment-lr
+morea_type: module
+morea_icon_url: /morea/CHANGE-ME/CHANGE-ME.png
+morea_start_date: "2023-02-12"
+morea_end_date: "2023-07-16"
+morea_labels:
+morea_sort_order: 21
+---
+
+Basics of linear regression
