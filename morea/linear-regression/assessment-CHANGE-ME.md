@@ -16,13 +16,13 @@ Here are a few questions to assess where you stand. The first question is just a
 * (basic) Let \\(B\\) be a \\(n\times p\\) matrix of training examples, with target
 \\(\bf y\\).  Derive the OLS/ML and the Bayesian linear regressors for the target using the training data. You do not need to submit this, just make sure you understand how to.
 
-* Let \\({\bf w}_1\\) and \\( {\bf w}_2\\) respectively be the projections of
-points \\({\bf z}_1\\) and \\({\bf z}_2\\) into a linear space \\(\mathcal L\\), that
-is, for \\(i = 1,2\\),
+* Let \\( {\bf w}_1 \\) and \\( {\bf w}_2 \\) respectively be the projections of
+points \\( {\bf z}_1 \\) and \\( {\bf z}_2 \\) into a linear space \\( \mathcal L \\), that
+is, for \\( i = 1,2 \\),
 \\[ {\bf w}_i = \arg\min_{ {\bf w} \in {\mathcal L} } || {\bf z}_i - {\bf w} ||^2, \\]
-What is the projection of \\(\alpha {\bf z}_1 +\beta {\bf z}_2\\) into \\(\mathcal L\\)? You may want to see the fourth problem, part (iii) too.
+What is the projection of \\( \alpha {\bf z}_1 +\beta {\bf z}_2 \\) into \\( \mathcal L \\)? You may want to see the fourth problem, part (iii) too.
 
-* Show that if the columns of \\(B\\) are linearly independent, \\(B^TB\\) is invertible.
+* Show that if the columns of \\( B \\) are linearly independent, \\(B^TB\\) is invertible.
 
 * If \\(B = \begin{bmatrix} 1 &0 \\ 1 & 1 \\ 1& 2 \end{bmatrix}\\) and
 \\({\bf y} = \begin{bmatrix} 6 \\ 0 \\ 0 \end{bmatrix}\\), find \\[(i)
