@@ -17,7 +17,7 @@ morea_icon_url: /morea/gaussians/gaussians.png
 morea_start_date: "2023-03-02"
 morea_end_date: "2023-07-16T23:00"
 morea_labels:
-morea_sort_order: 21
+morea_sort_order: 30
 ---
 
 Basic on Gaussian Random Variables, univariate and multivariate.

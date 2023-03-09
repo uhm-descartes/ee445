@@ -23,7 +23,7 @@ morea_icon_url: /morea/linear-regression/linear-regression.png
 morea_start_date: "2023-02-12"
 morea_end_date: "2023-07-16"
 morea_labels:
-morea_sort_order: 4
+morea_sort_order: 40
 ---
 Maximum Likelihood (Ordinary Least Squares) and Bayesian formulations of Linear
 Regression, geometry and significance
