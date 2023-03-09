@@ -14,8 +14,8 @@ morea_readings:
    - reading-lr-significance
 morea_experiences:
    - notebook-lr-geometry
+   - notebook-lr-significance
    - notebook-lr-significance-classical
-   - notebook-lr-lasso
 morea_assessments:
    - assessment-lr
 morea_type: module
