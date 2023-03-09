@@ -11,7 +11,7 @@ morea_labels:
 # Geometry of Linear Regression
 
 The third part of this
-[notebook](https://uhm-descartes.github.io/morea/linear-regression/module-lr-notebook.ipynb)
+[notebook](https://uhm-descartes.github.io/ee445/morea/linear-regression/module-lr-notebook.ipynb)
 takes you through a tour of the classical way of assessing
 significance through \(t-\)tests. In machine learning applications
 with a lot (sometimes millions) of features, these tests have limited

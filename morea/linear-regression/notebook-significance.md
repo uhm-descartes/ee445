@@ -11,7 +11,7 @@ morea_labels:
 # Geometry of Linear Regression
 
 The second part of this
-[notebook](https://uhm-descartes.github.io/morea/linear-regression/module-lr-notebook.ipynb)
+[notebook](https://uhm-descartes.github.io/ee445/morea/linear-regression/module-lr-notebook.ipynb)
 lets you think critically about the geometry of linear regression, noting that
 the training error is not the full picture. It goes through a validation perspective to find out about significance of features, and the LASSO approach towards
 obtaining relevant, generalizable features.

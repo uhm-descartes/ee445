@@ -11,7 +11,7 @@ morea_labels:
 # Geometry of Linear Regression
 
 The first part of this
-[notebook](https://uhm-descartes.github.io/morea/linear-regression/module-lr-notebook.ipynb)
+[notebook](https://uhm-descartes.github.io/ee445/morea/linear-regression/module-lr-notebook.ipynb)
 runs you through the basics of linear regression. It is useful to be
 familiar with linear spaces and the four fundamental linear spaces
 associated with any matrix covered in EE 345, but the notebook has a
