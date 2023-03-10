@@ -11,13 +11,13 @@ morea_labels:
 ---
 # Theory
 
-\\( \newcommand{\w}{{\bf w}} \\)
+\\( \newcommand{\w}{\mathbf{w}} \\)
 Here are a few questions to assess where you stand. The first question is just a recap of what you learned, but the remaining three probe your understanding. 
 
 * (basic) Let \\(B\\) be a \\(n\times p\\) matrix of training examples, with target
 \\(\bf y\\).  Derive the OLS/ML and the Bayesian linear regressors for the target using the training data. You do not need to submit this, just make sure you understand how to.
 
-* Let \\( \w_1 \\) and \\( {\bf w}_2 \\) respectively be the projections of
+* Let \\( \w_1 \\) and \\( \w_2 \\) respectively be the projections of
 points \\( {\bf z}_1 \\) and \\( {\bf z}_2 \\) into a linear space \\( \mathcal L \\), that
 is, for \\( i = 1,2 \\),
 \\[ {\bf w}_i = \arg\min_{ {\bf w} \in {\mathcal L} } || {\bf z}_i - {\bf w} ||^2, \\]
