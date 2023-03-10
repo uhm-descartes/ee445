@@ -51,7 +51,7 @@ model why some patients responded to the treatment and others did not.
 A full list of measurements and descriptions are available
 [here](https://www.synapse.org/#!Synapse:syn2455683/wiki/64621),
 though for this problem, you will not need a crash course in biology.
-The dataset is available [here](https://uhm-descartes.github.io/morea/linear-regression/trainingData-release.csv), and has been downloaded from [here](https://www.synapse.org/#!Synapse:syn2488690). 
+The dataset is available [here](https://uhm-descartes.github.io/ee445/morea/linear-regression/trainingData-release.csv), and has been downloaded from [here](https://www.synapse.org/#!Synapse:syn2488690). 
 
 The task is to model the following targets: 
 

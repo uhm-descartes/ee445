@@ -3,7 +3,7 @@ title: "Significance of Features"
 published: true
 morea_id: notebook-lr-significance
 morea_type: experience
-morea_summary: "Geometry of Linear Regression"
+morea_summary: "Geometry -> Generalization"
 morea_start_date: "2021-07-15T23:00"
 morea_labels:
 ---
