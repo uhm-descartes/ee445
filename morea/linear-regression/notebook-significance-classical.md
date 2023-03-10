@@ -3,7 +3,7 @@ title: "Significance of Features: the Classical View"
 published: true
 morea_id: notebook-lr-significance-classical
 morea_type: experience
-morea_summary: "\\(t-\)) values"
+morea_summary: "t- values"
 morea_start_date: "2021-07-15T23:00"
 morea_labels:
 ---
