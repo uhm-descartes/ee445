@@ -12,6 +12,9 @@ morea_labels:
 
 ## Warmup
 
+\\( \newcommand{\sets}[1]{\{#1\}} \\)
+\\( \newcommand{\ceil}[1]{\lceil#1\rceil} \\)
+
 Suppose \\(X\\) is a random variable concentrated around 3, and
 \\(P( |X-3| >.2) < .01\\). If you use 3 as an estimate of \\(X\\),
 what is the accuracy and with what confidence? 
