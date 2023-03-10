@@ -28,8 +28,8 @@ What is the projection of \\( \alpha \z_1 +\beta \z_2 \\) into \\( \mathcal L \\
 
 * Show that if the columns of \\( B \\) are linearly independent, \\(B^TB\\) is invertible.
 
-* If \\(B = \begin{bmatrix} 1 &0 \\ 1 & 1 \\ 1& 2 \end{bmatrix}\\) and
-\\({\bf y} = \begin{bmatrix} 6 \\ 0 \\ 0 \end{bmatrix}\\), find \\[(i)
+* If \\(B = \begin{bmatrix} 1 &0 \\\\ 1 & 1 \\\\ 1& 2 \end{bmatrix}\\) and
+\\({\bf y} = \begin{bmatrix} 6 \\\\ 0 \\\\ 0 \end{bmatrix}\\), find \\[(i)
 \x_{OLS} = \arg\min_{\x} || \y - B\x ||^2, \\] (ii)
 the point \\(p\\) in the column space of \\(B\\) closest to \\(\y\\), and
 (iii) a matrix \\(P\\) such that the projection of any vector \\(\z\\)
