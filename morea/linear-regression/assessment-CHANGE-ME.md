@@ -36,7 +36,7 @@ the point \\(p\\) in the column space of \\(B\\) closest to \\(\y\\), and
 with three coordinates into the column space of \\(B\\) is \\(P\z\\). 
 
 * Let \\(B\\) be a \\(n\times p\\) matrix of training examples, with
-target \\(\y\\). Let \\(B_{-1}\\) be the \\((n-1)\times p\\) matrix with
+target \\(\y\\). Let \\(B_{-1}\\) be the \\( n\times (p-1)\\) matrix with
 the first column deleted from \\(B\\). Can you find a unit vector in the
 column space of \\(B\\) that is perpendicular to the column space of
 \\(B_{-1}\\)?
@@ -45,17 +45,20 @@ column space of \\(B\\) that is perpendicular to the column space of
 
 # Practice
 
-This data is from the M.D. Anderson Cancer Center, and contains 191
-patients diagnosed with Acute Myelogenous Leukaemia, a kind of
-cancer. Measurements include clinical variables including
+The following data is from the M.D. Anderson Cancer Center, and
+contains 191 patients diagnosed with Acute Myelogenous Leukaemia, a
+kind of cancer. Measurements include clinical variables including
 demographics, history of cancer, chemotherapy or radiation treatments,
 blood tests, as well as cytogenic, genomic and proteomic measurements.
-These patients were treated with a particular treatment, and we need to
-model why some patients responded to the treatment and others did not.
-A full list of measurements and descriptions are available
+These patients were treated with a particular treatment, and we need
+to model why some patients responded to the treatment and others did
+not.  A full list of measurements and descriptions are available
 [here](https://www.synapse.org/#!Synapse:syn2455683/wiki/64621),
 though for this problem, you will not need a crash course in biology.
-The dataset is available [here](https://uhm-descartes.github.io/ee445/morea/linear-regression/trainingData-release.csv), and has been downloaded from [here](https://www.synapse.org/#!Synapse:syn2488690). 
+The dataset is available
+[here](https://uhm-descartes.github.io/ee445/morea/linear-regression/trainingData-release.csv),
+and has been downloaded from
+[here](https://www.synapse.org/#!Synapse:syn2488690).
 
 The task is to model the following targets: 
 
@@ -69,11 +72,11 @@ Build linear regression based models that predict each of the above
 targets. Note that you have a lot of features (about 271), but only
 191 patients, typical of most medical applications. You cannot use
 vanilla linear regression. This statement is deliberately left open
-ended, so that you can come up with a plan to develop this (obviously
-you can work with me for this).
-
-You will write up a report about your efforts (with my help). In any report you 
-have, you will have to cite the paper 
+ended. Work with me to come up with a plan to develop and implement
+your approch in tackling this task, and subsequently write up a report
+about your efforts. In any report you write, please be sure to cite
+the paper
 
 Hu et. al., A quantitative analysis of heterogeneities and hallmarks in acute myelogenous leukaemia. Nature Biomedical Engineering, vol 3, Nov 2019, pages 889-901.
 
+for the data.
