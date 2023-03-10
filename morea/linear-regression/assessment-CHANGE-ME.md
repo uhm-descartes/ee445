@@ -12,28 +12,31 @@ morea_labels:
 # Theory
 
 \\( \newcommand{\w}{\mathbf{w}} \\)
+\\( \newcommand{\x}{\mathbf{x}} \\)
+\\( \newcommand{\y}{\mathbf{y}} \\)
+\\( \newcommand{\z}{\mathbf{z}} \\)
 Here are a few questions to assess where you stand. The first question is just a recap of what you learned, but the remaining three probe your understanding. 
 
 * (basic) Let \\(B\\) be a \\(n\times p\\) matrix of training examples, with target
-\\(\bf y\\).  Derive the OLS/ML and the Bayesian linear regressors for the target using the training data. You do not need to submit this, just make sure you understand how to.
+\\(\y\\).  Derive the OLS/ML and the Bayesian linear regressors for the target using the training data. You do not need to submit this, just make sure you understand how to.
 
 * Let \\( \w_1 \\) and \\( \w_2 \\) respectively be the projections of
-points \\( {\bf z}_1 \\) and \\( {\bf z}_2 \\) into a linear space \\( \mathcal L \\), that
+points \\( \z_1 \\) and \\( \z_2 \\) into a linear space \\( \mathcal L \\), that
 is, for \\( i = 1,2 \\),
-\\[ {\bf w}_i = \arg\min_{ {\bf w} \in {\mathcal L} } || {\bf z}_i - {\bf w} ||^2, \\]
-What is the projection of \\( \alpha {\bf z}_1 +\beta {\bf z}_2 \\) into \\( \mathcal L \\)? You may want to see the fourth problem, part (iii) too.
+\\[ \w_i = \arg\min_{ \w \in {\mathcal L} } || \z_i - \w ||^2, \\]
+What is the projection of \\( \alpha \z_1 +\beta \z_2 \\) into \\( \mathcal L \\)? You may want to see the fourth problem, part (iii) too.
 
 * Show that if the columns of \\( B \\) are linearly independent, \\(B^TB\\) is invertible.
 
 * If \\(B = \begin{bmatrix} 1 &0 \\ 1 & 1 \\ 1& 2 \end{bmatrix}\\) and
 \\({\bf y} = \begin{bmatrix} 6 \\ 0 \\ 0 \end{bmatrix}\\), find \\[(i)
-{\bf x}_{OLS} = \arg\min_{\bf x} || {\bf y} - B{\bf x} ||^2, \\] (ii)
-the point \\(p\\) in the column space of \\(B\\) closest to \\(\bf y\\), and
-(iii) a matrix \\(P\\) such that the projection of any vector \\(\bf z\\)
-with three coordinates into the column space of \\(B\\) is \\(P{\bf z}\\). 
+\x_{OLS} = \arg\min_{\x} || \y - B\x ||^2, \\] (ii)
+the point \\(p\\) in the column space of \\(B\\) closest to \\(\y\\), and
+(iii) a matrix \\(P\\) such that the projection of any vector \\(\z\\)
+with three coordinates into the column space of \\(B\\) is \\(P\z\\). 
 
 * Let \\(B\\) be a \\(n\times p\\) matrix of training examples, with
-target \\(\bf y\\). Let \\(B_{-1}\\) be the \\((n-1)\times p\\) matrix with
+target \\(\y\\). Let \\(B_{-1}\\) be the \\((n-1)\times p\\) matrix with
 the first column deleted from \\(B\\). Can you find a unit vector in the
 column space of \\(B\\) that is perpendicular to the column space of
 \\(B_{-1}\\)?
