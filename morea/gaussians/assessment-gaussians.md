@@ -1,6 +1,6 @@
 ---
 title: "A01: Univariate Gaussians"
-published: true
+published: false
 morea_id: assessment-gaussians
 morea_summary: Loops? Conditionals? JSFiddle?
 morea_outcomes_assessed:

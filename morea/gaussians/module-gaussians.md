@@ -11,7 +11,7 @@ morea_experiences:
   - experience-clt
   - experience-tour
 morea_assessments:
-  - assessment-gaussians
+  #- assessment-gaussians
 morea_type: module
 morea_icon_url: /morea/gaussians/gaussians.png
 morea_start_date: "2023-03-02"
