@@ -1,7 +1,7 @@
 ---
 title: "Single Neuron Networks"
 published: true
-morea_id: assessment-perceptron
+morea_id: assessment-snn
 morea_summary: "Assessment"
 morea_outcomes_assessed:
  # - outcome-CHANGE-ME
