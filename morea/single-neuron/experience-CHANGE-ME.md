@@ -16,7 +16,7 @@ walks you through building a perceptron and replicating the Perceptron Algorithm
 the stochastic gradient descent algorithm. Along these lines, you are asked to replicate
 the Linear Regression and the Support Vector Machine algorithms as well.
 
-The particular point to note is the perceptron defined in the notebook. This is a tensorflow
+The particular point to note is the perceptron loss defined in the notebook. This is a tensorflow
 function written in the notebook rather than a loss function imported from keras, and
 it implements the loss 
 \\[ l(y, \hat{y})  = \max \bigl[ 0, - y \hat{y} \bigr], \\]
