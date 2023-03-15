@@ -12,8 +12,8 @@ morea_labels:
 # Theory
 
  * Show how a single neuron with an appropriate choice of activation, loss function and regularization can mimic (i) Ridge Regression, (ii) Lasso (iii) (linear) Support Vector Machines.
- * Show that the Perceptron Learning Algorithm performs stochastic gradient descent with a batch size of 1, where the \\(i\)) th example incurs loss \\( \max ( 0, - y y_i \)) if the true label is \\(y\)) and the prediction of the Perceptron is \\(y_i\\).
- * Answer the problems in the following [assessment](https://uhm-descartes.github.io/ee445/morea/single-neuron/perceptron-assessment.pdf)
+ * Show that the Perceptron Learning Algorithm performs stochastic gradient descent with a batch size of 1, where the \\(i\\) th example incurs loss \\( \max ( 0, - y y_i \\) if the true label is \\(y\\) and the prediction of the Perceptron is \\(y_i\\).
+ * Answer the problems in the following [handout](https://uhm-descartes.github.io/ee445/morea/single-neuron/perceptron-assessment.pdf)
 
 # Practice
 
