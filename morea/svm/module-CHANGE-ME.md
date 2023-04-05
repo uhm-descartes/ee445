@@ -2,7 +2,7 @@
 title: "Support vector machines"
 published: true
 morea_coming_soon: false
-morea_id: module-snn
+morea_id: module-svm
 morea_prerequisites:
 morea_outcomes:
    - outcome-svm
