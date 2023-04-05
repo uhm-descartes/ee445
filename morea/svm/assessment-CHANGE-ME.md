@@ -49,5 +49,6 @@ authors do this for you.
 
 # Practice
 
-Implement all the above. For OLS and linear Support vector machines, try to get the trained neuron weights as close to the optimal values calculated by vanilla OLS and linear SVM respectively.
-
+Implement the Support Vector Classifier on the leukemia dataset. Explore 
+whether preselecting features before using the support vector classifier helps
+or does not help.
