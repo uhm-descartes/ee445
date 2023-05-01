@@ -1,23 +1,28 @@
 ---
-title: "CHANGE ME"
-published: false
+title: "Linear Classifiers"
+published: true
 morea_coming_soon: false
-morea_id: module-CHANGE-ME
+morea_id: module-linclass
 morea_prerequisites:
 morea_outcomes:
-  # - outcome-CHANGE-ME
+   - outcome-lc
 morea_readings:
-  # - reading-CHANGE-ME
+  - reading-fisher
+  - reading-maxent
+  - reading-svm
 morea_experiences:
-  # - experience-CHANGE-ME
+  # - experience-lc
 morea_assessments:
   # - assessment-CHANGE-ME
 morea_type: module
-morea_icon_url: /morea/CHANGE-ME/CHANGE-ME.png
+morea_icon_url: /morea/linear-classifiers/lin-class.png
 morea_start_date: "2021-07-12"
 morea_end_date: "2021-07-16"
 morea_labels:
-morea_sort_order: 21
+morea_sort_order: 71
 ---
 
-CHANGE ME
+This module looks at basic linear classification approaches. First is
+the natural extension of regression, the Fisher Discriminant. Second
+is the maximum entropy approach, Logistic Regression. Finally, the maximum
+margin method, Support Vector Machines. 
