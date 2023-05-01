@@ -1,5 +1,5 @@
 ---
-title: "Fisher Discriminant""
+title: "Fisher Discriminant"
 published: true
 morea_id: reading-fisher
 morea_summary: "Lin Reg with target as $\pm 1$"
