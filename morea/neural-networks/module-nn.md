@@ -21,4 +21,4 @@ morea_labels:
 morea_sort_order: 81
 ---
 
-CHANGE ME
+Basic neural network architectures
