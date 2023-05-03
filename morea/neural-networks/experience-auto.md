@@ -9,25 +9,25 @@ morea_labels:
 ---
 
 First review the section about eigenvalues and eigenspaces
-[here]. Recall that \({\mathbb R}^p\) represents the linear space of
-all vectors with \(p\) real coordinates. For a matrix \(n\times p\)
-matrix \(X\), one can use spectral decomposition of \(X^TX\)
-(respectively \(XX^T\)) to find an orthonormal basis for \({\mathbb
-R}^p\) (respectively \({\mathbb R}^n\)) using eigenvectors of \(X^TX\)
-(respectively \(XX^T\)), and therefore for the rows (respectively
-columns) of \(X\). Assume that \(n \ge p\), and let the eigenvalues
-of \(X^TX\) be \(\lambda_1\ge \lambda_2 \cdots \ge \lambda_p\), then
-the highest \(p\) eigenvalues of \(XX^T\) are also
-\(\lambda_1, \lambda_2 \upto \lambda_p\), while the remaining \(n-p\)
+[here]. Recall that \\({\mathbb R}^p\\) represents the linear space of
+all vectors with \\(p\\) real coordinates. For a matrix \\(n\times p\\)
+matrix \\(X\\), one can use spectral decomposition of \\(X^TX\\)
+(respectively \\(XX^T\\)) to find an orthonormal basis for \\({\mathbb
+R}^p\\) (respectively \\({\mathbb R}^n\\)) using eigenvectors of \\(X^TX\\)
+(respectively \\(XX^T\\)), and therefore for the rows (respectively
+columns) of \\(X\\). Assume that \\(n \ge p\\), and let the eigenvalues
+of \\(X^TX\\) be \\(\lambda_1\ge \lambda_2 \cdots \ge \lambda_p\\), then
+the highest \\(p\\) eigenvalues of \\(XX^T\\) are also
+\\(\lambda_1, \lambda_2 \upto \lambda_p\\), while the remaining \\(n-p\\)
 eigenvalues are all 0. 
 
 
-Let \(V\) (respectively \(U\)) be the matrix formed
+Let \\(V\\) (respectively \\(U\\)) be the matrix formed
 by placing as columns the orthonormal basis obtained by the
-eigendecomposition of \(X^TX\) (respectively \(XX^T\)).
-Let \(\Sigma\)
-be the \(n\times p\) matrix formed with the positive square roots of
-the eigenvalues of \(X^TX\) in all the diagonal locations.
+eigendecomposition of \\(X^TX\\) (respectively \\(XX^T\\)).
+Let \\(\Sigma\\)
+be the \\(n\times p\\) matrix formed with the positive square roots of
+the eigenvalues of \\(X^TX\\) in all the diagonal locations.
 The singular value decomposition observes that
 $$ X = U \Sigma V^T. $$
 
