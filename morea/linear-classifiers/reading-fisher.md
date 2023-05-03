@@ -3,7 +3,7 @@ title: "Fisher Discriminant"
 published: true
 morea_id: reading-fisher
 morea_summary: "Lin Reg with categorical labels interpreted as numbers"
-morea_url: https://uhm-descartes.github.io/ee445/morea/linear-classifiers/fisher.pdf
+morea_url: 
 morea_type: reading
 morea_labels:
 ---
@@ -16,4 +16,4 @@ projects the data into a one-dimensional space, followed by a
 threshold classifier in the one-dimensional space. The one-dimensional
 space obtained turns out to be optimized to control the intra-class
 spread while keeping the distance between centroids as far as
-possible.
+possible. Read more about this [here](https://uhm-descartes.github.io/ee445/morea/linear-classifiers/fisher.pdf)
