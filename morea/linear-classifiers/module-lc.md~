@@ -13,7 +13,7 @@ morea_readings:
 morea_experiences:
   # - experience-lc
 morea_assessments:
-  # - assessment-CHANGE-ME
+  - assessment-lc
 morea_type: module
 morea_icon_url: /morea/linear-classifiers/lin-class.png
 morea_start_date: "2021-07-12"
