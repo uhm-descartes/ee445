@@ -15,7 +15,7 @@ morea_experiences:
 morea_assessments:
   - assessment-lc
 morea_type: module
-morea_icon_url: /morea/linear-classifiers/lin-class.png
+morea_icon_url: /morea/linear-classifiers/linclass.png
 morea_start_date: "2021-07-12"
 morea_end_date: "2021-07-16"
 morea_labels:
